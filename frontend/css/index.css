@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+    opacity: .85;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    margin-right: 30px;
+    margin-top :14px;
+    
+}
+.section-1{
+    flex:1;
+}
+.logo{
+    display: block;
+    margin:0px auto;
+    margin-top: 107px;
+}
